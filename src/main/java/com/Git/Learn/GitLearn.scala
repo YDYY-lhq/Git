@@ -8,5 +8,6 @@ object GitLearn {
     println("hello git1")
     println("hello git2")
 
+    println("hello hot-fix")
   }
 }
