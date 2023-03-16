@@ -9,5 +9,6 @@ object GitLearn {
     println("hello git2")
 
     println("hello hot-fix")
+    println("pull test")
   }
 }
