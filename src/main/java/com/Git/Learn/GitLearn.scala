@@ -5,5 +5,6 @@ object GitLearn {
     println("too young too simple1")
     println("too man1")
     print("3453")
+    println("hello git1")
   }
 }
